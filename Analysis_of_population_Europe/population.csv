@@ -1,26 +1,36 @@
-country_name,country_code,indicator_name,indicator_code,debt
-Afghanistan,AFG,"Disbursements on external debt, long-term (DIS, current US$)",DT.DIS.DLXF.CD,72894453.700000003
-Afghanistan,AFG,"Interest payments on external debt, long-term (INT, current US$)",DT.INT.DLXF.CD,53239440.100000001
-Afghanistan,AFG,"PPG, bilateral (AMT, current US$)",DT.AMT.BLAT.CD,61739336.899999999
-Afghanistan,AFG,"PPG, bilateral (DIS, current US$)",DT.DIS.BLAT.CD,49114729.399999999
-Afghanistan,AFG,"PPG, bilateral (INT, current US$)",DT.INT.BLAT.CD,39903620.100000001
-Afghanistan,AFG,"PPG, multilateral (AMT, current US$)",DT.AMT.MLAT.CD,39107845
-Afghanistan,AFG,"PPG, multilateral (DIS, current US$)",DT.DIS.MLAT.CD,23779724.300000001
-Afghanistan,AFG,"PPG, multilateral (INT, current US$)",DT.INT.MLAT.CD,13335820
-Afghanistan,AFG,"PPG, official creditors (AMT, current US$)",DT.AMT.OFFT.CD,100847181.900000006
-Afghanistan,AFG,"PPG, official creditors (DIS, current US$)",DT.DIS.OFFT.CD,72894453.700000003
-Afghanistan,AFG,"PPG, official creditors (INT, current US$)",DT.INT.OFFT.CD,53239440.100000001
-Afghanistan,AFG,"Principal repayments on external debt, long-term (AMT, current US$)",DT.AMT.DLXF.CD,100847181.900000006
-Albania,ALB,"Disbursements on external debt, long-term (DIS, current US$)",DT.DIS.DLXF.CD,317194512.5
-Albania,ALB,"Interest payments on external debt, long-term (INT, current US$)",DT.INT.DLXF.CD,165602386.900000006
-Albania,ALB,"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",DT.INT.DPNG.CD,87884000
-Albania,ALB,"PPG, bilateral (AMT, current US$)",DT.AMT.BLAT.CD,54250280.600000001
-Albania,ALB,"PPG, bilateral (DIS, current US$)",DT.DIS.BLAT.CD,76050616.099999994
-Albania,ALB,"PPG, bilateral (INT, current US$)",DT.INT.BLAT.CD,13847333.6
-Albania,ALB,"PPG, bonds (AMT, current US$)",DT.AMT.PBND.CD,0
-Albania,ALB,"PPG, bonds (INT, current US$)",DT.INT.PBND.CD,31030688.199999999
-Albania,ALB,"PPG, commercial banks (AMT, current US$)",DT.AMT.PCBK.CD,39445139.5
-Albania,ALB,"PPG, commercial banks (DIS, current US$)",DT.DIS.PCBK.CD,4542664.9
-Albania,ALB,"PPG, commercial banks (INT, current US$)",DT.INT.PCBK.CD,4618504.3
-Albania,ALB,"PPG, multilateral (AMT, current US$)",DT.AMT.MLAT.CD,182197616.699999988
-Albania,ALB,"PPG, multilateral (DIS, current US$)",DT.DIS.MLAT.CD,234321242.300000012
+country_name,Continent,region,local_name,capital,area,population,population_per_sq_km,male_life_expectancy,female_life_expectancy,birth_rate,death_rate
+Austria,Europe,Western Europe,Ă–sterreich,Vienna,"83,879 kmÂ˛","8,917,000",106.3,78.9,83.6,9.4,10.3
+Belgium,Europe,Western Europe,BelgiĂ« / Belgique,Brussels,"30,530 kmÂ˛","11,544,000",378.1,78.6,83.1,9.9,11.0
+France,Europe,Western Europe,France,Paris,"549,087 kmÂ˛","67,380,000",122.7,79.2,85.3,10.9,9.9
+Germany,Europe,Western Europe,Deutschland,Berlin,"357,580 kmÂ˛","83,161,000",232.6,78.6,83.4,9.3,11.9
+Liechtenstein,Europe,Western Europe,Liechtenstein,Vaduz,161 kmÂ˛,"38,137",237.6,80.1,83.6,9.1,8.2
+Luxembourg,Europe,Western Europe,Luxembourg/LĂ«tzebuerg,Luxembourg,"2,590 kmÂ˛","630,419",243.4,79.4,84.2,10.2,7.3
+Netherlands,Europe,Western Europe,Nederland,Amsterdam,"41,543 kmÂ˛","17,442,000",419.8,79.8,83.1,9.7,9.7
+Switzerland,Europe,Western Europe,Schweiz / Suisse / Svizzera / Svizra,Bern,"41,290 kmÂ˛","8,637,000",209.2,81.1,85.2,9.9,8.8
+Belarus,Europe,Eastern Europe,WeiĂźrussland,Đ‘ĐµĐ»Đ°Ń€ŃŃŃŚ,"207,600 kmÂ˛","9,380,000",45.18,69.3,79.4,9.3,13.0
+Bulgaria,Europe,Eastern Europe,Đ‘ŃŠĐ»ĐłĐ°Ń€Đ¸ŃŹ,Sofia,"111,000 kmÂ˛","6,934,000",62.47,69.9,77.5,8.5,18.0
+Czechia,Europe,Eastern Europe,Czech Republic,"ÄŚesko, ÄŚeskĂˇ republika","78,870 kmÂ˛","10,698,000",135.6,75.3,81.3,10.3,12.1
+Hungary,Europe,Eastern Europe,MagyarorszĂˇg,Budapest,"93,030 kmÂ˛","9,750,000",104.8,72.3,79.1,9.6,14.5
+Moldova,Europe,Eastern Europe,Moldau,Moldova,"33,850 kmÂ˛","2,620,000",77.41,67.7,76.3,9.8,11.8
+Poland,Europe,Eastern Europe,Polska,Warsaw,"312,680 kmÂ˛","37,899,000",121.2,72.6,80.8,9.4,12.6
+Romania,Europe,Eastern Europe,RomĂ˘nia,Bucharest,"238,400 kmÂ˛","19,258,000",80.78,70.5,78.4,9.2,15.4
+Spain,Europe,Southern Europe,EspaĂ±a,Madrid,"505,935 kmÂ˛","47,363,000",93.62,79.7,85.1,7.1,10.4
+Slovakia,Europe,Eastern Europe,Slovensko,Bratislava,"49,030 kmÂ˛","5,459,000",111.3,73.5,80.4,10.4,10.8
+Ukraine,Europe,Eastern Europe,Ukrajina / ĐŁĐşŃ€Đ°Ń—Đ˝Đ°,Kiev,"603,550 kmÂ˛","44,135,000",73.13,66.4,76.2,7.8,15.9
+Denmark,Europe,Northern Europe,Danmark,Copenhagen,"42,920 kmÂ˛","5,831,000",135.9,79.6,83.6,10.4,9.4
+Estonia,Europe,Northern Europe,Eesti,Tallinn,"45,340 kmÂ˛","1,329,000",29.32,74.2,82.7,9.9,11.9
+Finland,Europe,Northern Europe,Suomi,Helsinki,"338,450 kmÂ˛","5,530,000",16.34,79.4,85.0,8.4,10.0
+Iceland,Europe,Northern Europe,ĂŤsland,ReykjavĂ­k,"103,000 kmÂ˛","366,463",3.558,81.7,84.5,12.3,6.3
+Ireland,Europe,Northern Europe,Ă‰ire / Ireland,Dublin,"70,280 kmÂ˛","4,986,000",70.94,80.4,84.1,11.2,6.4
+Latvia,Europe,Northern Europe,Latvija,Riga,"64,490 kmÂ˛","1,900,000",29.47,70.9,80.1,9.2,15.2
+Lithuania,Europe,Northern Europe,Lietuva,Vilnius,"65,286 kmÂ˛","2,795,000",42.81,70.1,80.0,9.0,15.6
+Norway,Europe,Northern Europe,Norge,Oslo,"385,203 kmÂ˛","5,379,000",13.97,81.6,84.9,9.8,7.5
+Sweden,Europe,Northern Europe,Sverige,Stockholm,"447,430 kmÂ˛","10,353,000",23.14,80.7,84.2,10.9,9.5
+United Kingdom,Europe,Northern Europe,GroĂźbritannien und Nordirland,United Kingdom,"243,610 kmÂ˛","67,215,000",275.9,79.0,82.9,10.2,10.4
+Albania,Europe,Southern Europe,Republika e ShqipĂ«risĂ«,Tirana,"28,750 kmÂ˛","2,838,000",98.71,77.2,80.3,11.5,8.3
+Greece,Europe,Southern Europe,Î•Î»Î»Î¬Î´Î± / EllĂˇda,Athens,"131,960 kmÂ˛","10,701,000",81.09,78.6,83.7,7.9,12.2
+Malta,Europe,Southern Europe,Malta,Valletta,320 kmÂ˛,"515,332","1,610",80.8,84.6,8.6,7.9
+Montenegro,Europe,Southern Europe,Đ¦Ń€Đ˝Đ° Đ“ĐľŃ€Đ° / Crna Gora / Mali i Zi,Podgorica,"13,810 kmÂ˛","621,306",44.99,73.2,78.8,11.4,11.7
+Portugal,Europe,Southern Europe,Portugal,Lisbon,"92,226 kmÂ˛","10,297,000",111.7,78.0,84.1,8.2,12.0
+Serbia,Europe,Southern Europe,ĐˇŃ€Đ±Đ¸ŃĐ° Srbija,Belgrade,"88,360 kmÂ˛","6,899,000",78.08,71.4,77.2,8.9,16.9
+Slovenia,Europe,Southern Europe,Slovenija,Ljubljana,"20,675 kmÂ˛","2,102,000",101.7,77.8,83.4,8.9,11.4
