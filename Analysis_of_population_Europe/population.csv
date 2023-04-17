@@ -1,1 +1,26 @@
-
+country_name,country_code,indicator_name,indicator_code,debt
+Afghanistan,AFG,"Disbursements on external debt, long-term (DIS, current US$)",DT.DIS.DLXF.CD,72894453.700000003
+Afghanistan,AFG,"Interest payments on external debt, long-term (INT, current US$)",DT.INT.DLXF.CD,53239440.100000001
+Afghanistan,AFG,"PPG, bilateral (AMT, current US$)",DT.AMT.BLAT.CD,61739336.899999999
+Afghanistan,AFG,"PPG, bilateral (DIS, current US$)",DT.DIS.BLAT.CD,49114729.399999999
+Afghanistan,AFG,"PPG, bilateral (INT, current US$)",DT.INT.BLAT.CD,39903620.100000001
+Afghanistan,AFG,"PPG, multilateral (AMT, current US$)",DT.AMT.MLAT.CD,39107845
+Afghanistan,AFG,"PPG, multilateral (DIS, current US$)",DT.DIS.MLAT.CD,23779724.300000001
+Afghanistan,AFG,"PPG, multilateral (INT, current US$)",DT.INT.MLAT.CD,13335820
+Afghanistan,AFG,"PPG, official creditors (AMT, current US$)",DT.AMT.OFFT.CD,100847181.900000006
+Afghanistan,AFG,"PPG, official creditors (DIS, current US$)",DT.DIS.OFFT.CD,72894453.700000003
+Afghanistan,AFG,"PPG, official creditors (INT, current US$)",DT.INT.OFFT.CD,53239440.100000001
+Afghanistan,AFG,"Principal repayments on external debt, long-term (AMT, current US$)",DT.AMT.DLXF.CD,100847181.900000006
+Albania,ALB,"Disbursements on external debt, long-term (DIS, current US$)",DT.DIS.DLXF.CD,317194512.5
+Albania,ALB,"Interest payments on external debt, long-term (INT, current US$)",DT.INT.DLXF.CD,165602386.900000006
+Albania,ALB,"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",DT.INT.DPNG.CD,87884000
+Albania,ALB,"PPG, bilateral (AMT, current US$)",DT.AMT.BLAT.CD,54250280.600000001
+Albania,ALB,"PPG, bilateral (DIS, current US$)",DT.DIS.BLAT.CD,76050616.099999994
+Albania,ALB,"PPG, bilateral (INT, current US$)",DT.INT.BLAT.CD,13847333.6
+Albania,ALB,"PPG, bonds (AMT, current US$)",DT.AMT.PBND.CD,0
+Albania,ALB,"PPG, bonds (INT, current US$)",DT.INT.PBND.CD,31030688.199999999
+Albania,ALB,"PPG, commercial banks (AMT, current US$)",DT.AMT.PCBK.CD,39445139.5
+Albania,ALB,"PPG, commercial banks (DIS, current US$)",DT.DIS.PCBK.CD,4542664.9
+Albania,ALB,"PPG, commercial banks (INT, current US$)",DT.INT.PCBK.CD,4618504.3
+Albania,ALB,"PPG, multilateral (AMT, current US$)",DT.AMT.MLAT.CD,182197616.699999988
+Albania,ALB,"PPG, multilateral (DIS, current US$)",DT.DIS.MLAT.CD,234321242.300000012
