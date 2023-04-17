@@ -1,6 +1,6 @@
--- Table: population_europe
+-- Table: population
 
-CREATE TABLE population_europe
+CREATE TABLE population
 (
   country_name VARCHAR(50),
   region VARCHAR(50),
@@ -14,4 +14,4 @@ CREATE TABLE population_europe
 );
 
 -- Copy over data from CSV
-\copy population_europe FROM 'population_europe.csv' DELIMITER ',' CSV HEADER;
+\copy population FROM 'population.csv' DELIMITER ',' CSV HEADER;
