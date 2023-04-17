@@ -14,4 +14,4 @@ CREATE TABLE population
 );
 
 -- Copy over data from CSV
-\copy population FROM 'population.csv' DELIMITER ',' CSV HEADER;
+\copy population FROM 'C:\Users\jolaz\Downloads\population.csv' DELIMITER ',' CSV HEADER;
