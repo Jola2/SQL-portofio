@@ -2,9 +2,9 @@
 
 CREATE TABLE population_europe
 (
-  country_name character varying(50),
-  region character varying(50),
-  area text,
+  country_name VARCHAR(50),
+  region VARCHAR(50),
+  area VARCHAR(40),
   population numeric,
   population_per_sq_km numeric,
   male_life_expectancy numeric,
