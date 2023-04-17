@@ -1,13 +1,17 @@
--- Table: international_debt
+-- Table: population_europe
 
-CREATE TABLE international_debt
+CREATE TABLE population_europe
 (
   country_name character varying(50),
-  country_code character varying(50),
-  indicator_name text,
-  indicator_code text,
-  debt numeric
+  region character varying(50),
+  area text,
+  population numeric,
+  population_per_sq_km numeric,
+  male_life_expectancy numeric,
+  female_life_expectancy numeric,
+  birth_rate numeric,
+  death_rate numeric
 );
 
 -- Copy over data from CSV
-\copy international_debt FROM 'international_debt.csv' DELIMITER ',' CSV HEADER;
+\copy population_europe FROM 'population_europe.csv' DELIMITER ',' CSV HEADER;
