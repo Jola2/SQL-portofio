@@ -1,0 +1,11 @@
+🍕 Case Study #2 - Pizza Runner
+🍝 Solution - A. Pizza Metrics
+1. How many pizzas were ordered?
+
+SELECT COUNT(*) AS pizza_order_count
+FROM #customer_orders;
+
+Answer:
+
+
+
