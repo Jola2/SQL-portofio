@@ -1,11 +1,10 @@
-#  Case Study #2 - Pizza Runner
+# 🍕 Case Study #2 Pizza Runner
 
-## Solution - A. Pizza Metrics
+## Solution - C. Ingredient Optimisation
 
-### 1. How many pizzas were ordered?
+### 1. What are the standard ingredients for each pizza?
 
-````sql
-SELECT COUNT(*) AS pizza_order_count
-FROM #customer_orders;
+### 2. What was the most commonly added extra?
+
 ````
 
