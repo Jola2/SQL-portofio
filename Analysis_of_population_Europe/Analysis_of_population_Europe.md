@@ -21,7 +21,7 @@ SELECT country_name, population,
 
 ![obraz](https://user-images.githubusercontent.com/100040541/235235949-21a80aac-4b78-482e-b266-0604f230624a.png)
 
-- Germany is the most populous country in Europe. Germany is followed by France, United Kingdom, Italy and Spain.. The top five countries together hold a 57% share of the Europe population. As of 2021, 15 countries have a population above 10 million.
+- Germany is the most populous country in Europe. Germany is followed by France, United Kingdom, Italy and Spain. The top five countries together hold a 57% share of the Europe population. As of 2021, 14 countries have a population above 10 million.
 
 ***
 
@@ -52,6 +52,7 @@ LIMIT 5;
 ````
 
 **Answer:**
+
 ![obraz](https://user-images.githubusercontent.com/100040541/235245878-702129cb-f5ce-48d3-909b-20464189d2eb.png)
 
 - Interestingly, the five countries with the largest differences in life expectancy between men and women were in the former Soviet Union. It is worth mentioning that the greatest diversification of the gap in the life expectancy of women and men in the world occurs in Russia.
