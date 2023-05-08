@@ -53,7 +53,7 @@ VALUES
   ('35','Slovenia','20675','2102000','101.7'),
   ('36','Italy','301277','60304000', '200.16');
   ````
-  *part of the table*
+  **part of the table**
   
 ![obraz](https://user-images.githubusercontent.com/100040541/236893511-5d3068a4-3cbf-4fcf-a5f0-d7eb8fe1a482.png)
 
@@ -113,7 +113,7 @@ VALUES
   ('35','Slovenia','Southern Europe','77.8','83.4','8.9','11.4'),
   ('36','Italy','Southern Europe','80.9','84.9','7.3','10.7');
    ````
-   *part of the table*
+   **part of the table**
    
    ![obraz](https://user-images.githubusercontent.com/100040541/236893565-629e6e3b-2474-4985-8f5e-7d371ca50ec7.png)
 
