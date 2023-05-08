@@ -1,4 +1,4 @@
-# SQL Portfolio
+# Analysis of population Europe - SQL Portfolio
 
 This repository contains analysis using SQL. In this project, I used a dataset found on Kaggle [Europe Population Data](https://www.kaggle.com/datasets/madhurpant/europe-population-data).
 
