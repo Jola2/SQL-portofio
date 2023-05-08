@@ -1,9 +1,9 @@
 # 🇪🇺 Population in Europe
 
-**1. What is the average population density, average grown rate and total population in Europe**
+**1. What is the average population density, average grown rate and total population in Europe.**
 
 ````sql
-SELECT AVG(population_per_sq_km) AS average_population_per_sq_km, AVG(birth_rate-death_rate) as average_population_growth, SUM(population) AS population_of_europe
+SELECT AVG(population_per_sq_km) AS average_population_per_sq_km, AVG(birth_rate-death_rate) AS average_population_growth, SUM(population) AS population_of_europe
 FROM population_data p
 JOIN lifespan l ON  p.country_name=l.country_name;
 ````
@@ -16,7 +16,7 @@ JOIN lifespan l ON  p.country_name=l.country_name;
 
 ***
 
-**2.Show countries with positive population growth and at least 5 million population **
+**2. Show countries with positive population growth and at least 5 million population.**
 
 ````sql
 SELECT  p.country_name AS country, population, birth_rate-death_rate AS population_growth
@@ -34,7 +34,7 @@ ORDER BY population_growth DESC;
 
 ***
 
-**3. Group countries by  range population and show the 5 most populous countries**
+**3. Group countries by  range population and show the 5 most populous countries.**
 
 ````sql
 SELECT country_name, population,
@@ -59,7 +59,7 @@ SELECT country_name, population,
 
 ***
 
-**4. Show the five countries with the lowest population growth**
+**4. Show the five countries with the lowest population growth.**
 
 ````sql
 SELECT country_name, birth_rate-death_rate as population_growth
@@ -93,7 +93,7 @@ LIMIT 5;
 
 ***
 
-**6. Check if there is a country in Europe where the life expectancy of men is higher than that of women**
+**6. Check if there is a country in Europe where the life expectancy of men is higher than that of women.**
 
 ````sql
 SELECT country_name
@@ -113,7 +113,7 @@ WHERE EXISTS (
 
 ***
 
-**7.Show countries with an area of over 300,000 km² and a population of over 50 million starting with the country with the largest area in this group**
+**7.Show countries with an area of over 300,000 km² and a population of over 50 million starting with the country with the largest area in this group.**
 
 ````sql
 SELECT country_name, area_km², population
@@ -130,7 +130,7 @@ ORDER BY area_km² DESC;
 
 ***
 
-**8.Show the 5 least densely populated countries**
+**8.Show the 5 least densely populated countries.**
 
 ````sql
 SELECT country_name, population_per_sq_km
